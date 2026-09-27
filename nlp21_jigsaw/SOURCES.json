@@ -1,0 +1,27 @@
+[
+  {
+    "file": "Pasted text(20260927-144356).txt",
+    "sha256": "dd899927dbf412b4f041057ebe9c0b3aea7eccfb53cb8a5285d6c7686cce4376",
+    "symbols": [
+      "_GradScale",
+      "_Residual",
+      "_Separable",
+      "_Trunk",
+      "_Encoder",
+      "_OrderHead",
+      "_ReconstructHead",
+      "_tile_normalize",
+      "_pair_targets"
+    ]
+  },
+  {
+    "file": "Pasted text (2)(20260927-144421).txt",
+    "sha256": "3a6a6a80efe94fc42b47bc2db5fc3566f3397493ad586533b65218ad865c1375",
+    "symbols": [
+      "_LinearOrderHead",
+      "_LagHead",
+      "lag_edges",
+      "lag_targets"
+    ]
+  }
+]
